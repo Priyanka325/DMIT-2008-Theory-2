@@ -1,50 +1,49 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Priyanka Silambarasan - Front-End Web Developer",
+    "description": "I'm a web developer based in Edmonton, Alberta, passionate about UI/UX, responsive design, accessibility, and performance optimization. My primary tools include HTML, CSS, JavaScript, React, Shopify, WordPress, and Figma.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
       "frameworkName": "React",
       "frameworkUrl": "https://react.dev/",
-      "author": "AI under the guidance of DanG-IT Professional"
+      "author": "Priyanka Silambarasan"
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
-    "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "personName": "Priyanka Silambarasan",
+    "jobTitle": "Front-End Web Developer",
+    "worksFor": "Student / Web Developer",
+    "location": "Edmonton, Alberta",
+    "countryCode": "CA",
+    "nationality": "Canada",
+    "publisherName": "Priyanka Silambarasan",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://github.com/Priyanka325"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Priyanka Silambarasan",
+    "summary": "a front-end web developer with a strong focus on UI/UX, responsive design, accessibility, and performance",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/Priyanka325"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/priyankasimbu/"
       },
       {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "ariaLabel": "portfolio profile",
+        "screenReaderLabel": "Portfolio",
+        "icon": "ri:global-line",
+        "url": "https://priyankasimbu-portfolio.netlify.app/"
       }
     ],
     "supportLink": {
@@ -53,43 +52,35 @@
       "imageAlt": "Buy Me a Coffee at ko-fi.com"
     },
     "image": {
-      "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "src": "/profile.JPG",
+      "alt": "my profile photo"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
-    "toolsIntro": "My primary tools of choice includes:",
+    "intro": "Hi, I'm Priyanka, a front-end web developer based in Edmonton, Alberta.",
+    "toolsIntro": "My primary tools of choice include:",
     "tools": [
+      "HTML",
+      "CSS",
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Shopify",
+      "WordPress"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "I enjoy building responsive and user-friendly websites with a strong focus on design, usability, and performance. I'm especially interested in UI/UX, front-end development, and creating clean digital experiences.",
+    "approach": "I like choosing the right tool for each project and building websites that are accessible, visually appealing, and practical for real users."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "priyankaganesh70@gmail.com",
+    "location": "Edmonton, Alberta, Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
-        "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
-      },
-      {
-        "label": "Github",
-        "url": "https://github.com/Ladvace"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "label": "GitHub",
+        "url": "https://github.com/Priyanka325"
       }
     ]
   },
@@ -101,14 +92,14 @@
     "title": "Now",
     "helpLabel": "what's that ?",
     "helpUrl": "https://sive.rs/nowff",
-    "status": "Currently working fulltime"
+    "status": "Currently studying web design and development"
   },
   "sections": {
     "schoolAssignment": {
       "title": "DMIT-2008 Theory 2",
-      "href": "https://www.nait.ca/nait/marketing/new-media-and-it-programs",
+      "href": "https://github.com/Priyanka325/DMIT-2008-Theory-2",
       "target": "_blank",
-      "placeholder": "Final Graduating Class"
+      "placeholder": "Digital Media and IT Student"
     },
     "comingSoon": {
       "title": "Coming Soon",
