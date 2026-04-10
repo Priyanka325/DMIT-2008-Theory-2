@@ -38,12 +38,6 @@
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
         "url": "https://www.linkedin.com/in/priyankasimbu/"
-      },
-      {
-        "ariaLabel": "portfolio profile",
-        "screenReaderLabel": "Portfolio",
-        "icon": "ri:global-line",
-        "url": "https://priyankasimbu-portfolio.netlify.app/"
       }
     ],
     "supportLink": {
