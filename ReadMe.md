@@ -1,6 +1,7 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: **Priyanka Silambarasan**
+> GitHub username: **Priyanka325**
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
